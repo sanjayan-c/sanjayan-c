@@ -11,7 +11,7 @@
 
 I’m a passionate Software Engineer with hands-on experience in full-stack development, AI integration, and mobile app engineering. I specialize in building robust, scalable applications — from dynamic web platforms to intelligent tools powered by machine learning.
 
-With a strong foundation in Java, Kotlin, and JavaScript ecosystems, I love solving complex problems and creating meaningful digital experiences. Whether it’s architecting a microservices platform, fine-tuning an AI model, or building an immersive AR app — I’m all in.
+With a strong foundation in Java, Kotlin, and JavaScript ecosystems, I love solving complex problems and creating meaningful digital experiences. Whether it’s architecting a microservices platform, or fine-tuning an AI model — I’m all in.
 
 ---
 
