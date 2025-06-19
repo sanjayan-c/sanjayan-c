@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Sanjayan Chanthirasegaran
 
-<!--
-**sanjayan-c/sanjayan-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer with a BSc (Hons) in Information Technology, specialized in Software Engineering. I have hands-on experience in full-stack development, AI integration, and mobile app development. I enjoy building robust, scalable applications using technologies like **React**, **Node.js**, **Spring Boot**, **.NET**, and **Kotlin**.
 
-Here are some ideas to get you started:
+### 🚀 Recent Projects
+- **WriteWizard** – AI-powered academic writing & mind map generation
+- **EduMatrix** – Online learning platform with microservices
+- **TourARound** – AR-based Android app with location, object detection, and translation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+`Java` `Kotlin` `React` `Node.js` `Spring Boot` `.NET` `MongoDB` `Firebase` `FastAPI` `Docker` `Git`
+
+### 📫 Let's Connect
+- Portfolio: [sanjayan.vercel.app](https://sanjayan.vercel.app)
+- LinkedIn: [linkedin.com/in/sanjayan-c](https://linkedin.com/in/sanjayan-c)
+- Email: [sanjayan201@gmail.com](mailto:sanjayan201@gmail.com)
